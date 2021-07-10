@@ -1,0 +1,9 @@
+.window{
+    flex-grow: 1;
+    height: 90%;
+}
+
+.Sorter{
+    display: flex;
+
+}
